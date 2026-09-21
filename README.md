@@ -96,15 +96,6 @@ As a CEH-certified ethical hacker, I test web applications, identify vulnerabili
 
 </details>
 
-<br/>
-
-### 📦 Open Source
-
-<div align="center">
-
-[![Claude-GPT-API](https://github-readme-stats.vercel.app/api/pin/?username=adityabh2007&repo=Claude-GPT-API&theme=transparent&bg_color=07101f&border_color=1c2a44&title_color=4fd1c5&icon_color=4fd1c5&text_color=cbd5e1&show_owner=true)](https://github.com/adityabh2007/Claude-GPT-API)
-
-</div>
 
 <br/>
 
@@ -148,18 +139,6 @@ Technology is only one side of my practice. I find balance in **Indian classical
 | 🇬🇧 English | 🇮🇳 Bengali | 🇮🇳 Hindi | 🇩🇪 German |
 |:---:|:---:|:---:|:---:|
 | Fluent | Fluent | Fluent | A1 Certified |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityabh2007&show_icons=true&hide_border=false&bg_color=07101f&border_color=1c2a44&title_color=4fd1c5&icon_color=4fd1c5&text_color=cbd5e1&ring_color=4fd1c5" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabh2007&layout=compact&bg_color=07101f&border_color=1c2a44&title_color=4fd1c5&text_color=cbd5e1" alt="Top languages" />
 
 </div>
 
