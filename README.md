@@ -1,10 +1,10 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07101f,100:4fd1c5&height=230&section=header&text=Aditya%20Bhakta&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%C3%97%20Business%20Analytics%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Builder&descSize=18&descAlignY=58" alt="Aditya Bhakta banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07101f,100:4fd1c5&height=230&section=header&text=Aditya%20Bhakta&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%C3%97%20Business%20Analytics%20%C2%B7%20Robotics%20%C2%B7%20Builder&descSize=18&descAlignY=58" alt="Aditya Bhakta banner" width="100%" />
 
 <a href="https://adityabhakta.onrender.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=640&height=45&lines=Building+systems+that+think+ahead.;AI+%26+Business+Analytics+%40+IIM+Lucknow;CEH-certified+ethical+hacker;WRO+India+2025+%E2%80%94+national-level+project;Classical+voice+%C3%97+six+strings+%F0%9F%8E%B8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=640&height=45&lines=Building+systems+that+think+ahead.;AI+%26+Business+Analytics+%40+IIM+Lucknow;WRO+India+2025+%E2%80%94+national-level+project;Classical+voice+%C3%97+six+strings+%F0%9F%8E%B8" alt="Typing animation" />
 </a>
 
 <br/>
@@ -25,15 +25,15 @@
 
 I'm an **AI & Business Analytics undergraduate at [IIM Lucknow](https://www.iiml.ac.in/)**, turning curiosity into useful, human-centred technology.
 
-I work at the intersection of **intelligent systems**, **strategic thinking**, and **digital security**. Whether I'm analysing data, testing a web application's defences, or arranging a melody, I bring the same deliberate curiosity to the room.
+I work at the intersection of **intelligent systems**, **strategic thinking**, and **robotics**. Whether I'm analysing data, building an API, or arranging a melody, I bring the same deliberate curiosity to the room.
 
 > 💡 *A builder with a wide aperture.*
 
 <div align="center">
 
-| 🎓 Studying | 🏆 Robotics | 🥇 Olympiad | 🔐 Certified |
-|:---:|:---:|:---:|:---:|
-| **AI + Business Analytics**<br/>IIM Lucknow | **WRO India 2025**<br/>National-level project | **State topper**<br/>International Informatics Olympiad | **CEH**<br/>Certified Ethical Hacker |
+| 🎓 Studying | 🏆 Robotics |
+|:---:|:---:|
+| **AI + Business Analytics**<br/>IIM Lucknow | **WRO India 2025**<br/>National-level project |
 
 </div>
 
@@ -82,10 +82,6 @@ curl http://127.0.0.1:8080/v1/chat/completions \
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎯 DeepFocus
 `Browser Extension` · `Productivity`
 
@@ -99,23 +95,6 @@ A tab blocker designed for focused study sessions. DeepFocus helps students make
 │  blocked                  │
 └───────────────────────────┘
 ```
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Ethical Hacking
-`Security` · `CEH Certified`
-
-As a CEH-certified ethical hacker, I test web applications, identify vulnerabilities, and help close the gaps before someone else finds them.
-
-**Focus areas**
-- Web application security testing
-- Vulnerability identification
-- Helping teams fix what's found
-
-</td>
-</tr>
-</table>
 
 ### 🏗️ Infradev — *Find the fault before it finds us.*
 `AI` · `Robotics` · `Structural Safety` · **WRO India 2025 · National-level project**
@@ -150,7 +129,6 @@ As a CEH-certified ethical hacker, I test web applications, identify vulnerabili
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-07101f?style=flat-square&logo=openai&logoColor=4fd1c5)
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-07101f?style=flat-square&logo=powerbi&logoColor=4fd1c5)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-07101f?style=flat-square&logo=opencv&logoColor=4fd1c5)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-07101f?style=flat-square&logo=hackthebox&logoColor=4fd1c5)
 ![API Development](https://img.shields.io/badge/API_Development-07101f?style=flat-square&logo=postman&logoColor=4fd1c5)
 ![Product Building](https://img.shields.io/badge/Product_Building-07101f?style=flat-square&logo=producthunt&logoColor=4fd1c5)
 ![Robotics](https://img.shields.io/badge/Robotics_%C2%B7_LiDAR-07101f?style=flat-square&logo=ros&logoColor=4fd1c5)
