@@ -42,6 +42,46 @@ I work at the intersection of **intelligent systems**, **strategic thinking**, a
 <!-- ═══════════════════ WORK ═══════════════════ -->
 ## 🚀 Selected Work
 
+### 📌 Pinned Repository
+
+<div align="center">
+
+<a href="https://github.com/adityabh2007/Claude-GPT-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityabh2007&repo=Claude-GPT-API&theme=dark&bg_color=07101f&title_color=4fd1c5&icon_color=4fd1c5&text_color=c9d1d9&border_color=4fd1c5&hide_border=false" alt="Claude-GPT-API repo card" />
+</a>
+
+</div>
+
+### 🔌 Claude-GPT-API
+`JavaScript` · `Node.js` · `Express` · `API` · `Archived`
+
+A free API for **Claude and GPT-3.5 chat completion**, exposing a familiar `/v1/chat/completions` endpoint. Built with **Node.js, Express and Axios**, it runs locally in a few commands or deploys to **Render** as a web service. The project drew **12 stars and 15 forks** from the community.
+
+<details>
+<summary><b>⚙️ Quick start</b></summary>
+<br/>
+
+```bash
+git clone https://github.com/adityabh2007/Claude-GPT-API
+cd Claude-GPT-API
+npm install express axios body-parser uuid
+node app.js
+```
+
+```bash
+curl http://127.0.0.1:8080/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{ "model": "gpt-3.5-turbo-0125", "messages": [{ "role": "user", "content": "Hello!" }] }'
+```
+
+**Deploying on Render:** fork the repo → create a new *Web Service* → build command `npm install` → start command `node app.js` → set any environment variables → deploy.
+
+> 📦 This repository is now **archived** (read-only), kept public for reference.
+
+</details>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -92,10 +132,9 @@ As a CEH-certified ethical hacker, I test web applications, identify vulnerabili
 | **02** | An **AI-enabled camera** captures suspected cracks for image-based analysis in **Python**. |
 | **03** | A **rover** handles ground inspections; a **drone** carries the same monitoring approach to high-rise structures. |
 
-**🏅 Result:** Scored **138.75** at the WRO India regional round (Manav Rachna University) and earned a place at the **national level in Hyderabad** — one of only **six** senior-category projects to advance from Delhi, Uttar Pradesh, Haryana, Jharkhand and Bihar.
+**🏅 Result:** Scored **138.75** at the WRO India regional round (Manav Rachna University) and earned a place at the **national level in Hyderabad**, one of only **six** senior-category projects to advance from Delhi, Uttar Pradesh, Haryana, Jharkhand and Bihar.
 
 </details>
-
 
 <br/>
 
@@ -112,6 +151,7 @@ As a CEH-certified ethical hacker, I test web applications, identify vulnerabili
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-07101f?style=flat-square&logo=powerbi&logoColor=4fd1c5)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-07101f?style=flat-square&logo=opencv&logoColor=4fd1c5)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-07101f?style=flat-square&logo=hackthebox&logoColor=4fd1c5)
+![API Development](https://img.shields.io/badge/API_Development-07101f?style=flat-square&logo=postman&logoColor=4fd1c5)
 ![Product Building](https://img.shields.io/badge/Product_Building-07101f?style=flat-square&logo=producthunt&logoColor=4fd1c5)
 ![Robotics](https://img.shields.io/badge/Robotics_%C2%B7_LiDAR-07101f?style=flat-square&logo=ros&logoColor=4fd1c5)
 
@@ -124,7 +164,7 @@ As a CEH-certified ethical hacker, I test web applications, identify vulnerabili
 
 > *Logic has a rhythm, too.*
 
-Technology is only one side of my practice. I find balance in **Indian classical singing** and **guitar** — disciplines that reward listening, patience, and presence.
+Technology is only one side of my practice. I find balance in **Indian classical singing** and **guitar**, disciplines that reward listening, patience, and presence.
 
 ```text
 ♪ NOW PLAYING ───────────────────────── 01:42
@@ -147,7 +187,7 @@ Technology is only one side of my practice. I find balance in **Indian classical
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
 ## 🤝 Let's Make Something Meaningful
 
-Got an idea, an interesting problem, or a good music recommendation? I'm **available for collaborations** — let's talk.
+Got an idea, an interesting problem, or a good music recommendation? I'm **available for collaborations**, so let's talk.
 
 <div align="center">
 
